@@ -2,7 +2,7 @@
 
 A Python-based ray tracer that creates photorealistic images of 3D scenes with materials, reflections, refraction, and lighting effects.
 
-![Example Render](raytraced.png)
+![Example Render](raytraced_image.png)
 
 ## Features
 
