@@ -1,8 +1,8 @@
 # PythonRay Tracer
 
-A Python-based ray tracer that creates photorealistic images of 3D scenes with materials, reflections, refraction, and lighting effects.
+A Python-based ray tracer that creates photorealistic images of 3D scenes with materials, reflections, refraction, and lighting effects. I made this project to deepen my understanding of the mathematics behind 3D computer graphics.
 
-![Example Render](raytraced_image.png)
+<img src="raytraced_image.png" alt="Example Render" width="400">
 
 ## Features
 
